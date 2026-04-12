@@ -1,2 +1,3 @@
 # Seminar_Chuyen_De
-Checklist BT
+
+Luu Chan Vinh - 3122411246- DCT122C2
